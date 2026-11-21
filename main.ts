@@ -1,8 +1,8 @@
-import { writeFileSync } from 'node:fs';
+const { writeFileSync } = require('node:fs');
 
 const poem = `May I cut your hair?
-In the salt she spilled at supper
-my mother traces an N.
+My mother draws an N
+across my palm.
 I set the scissors down
 before she has to make the O.`;
 
